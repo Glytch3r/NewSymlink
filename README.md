@@ -1,5 +1,8 @@
 adds a contextmenu to windows that is used to create a symlink from the path that you store via clipboard<br>
-<br>
+<br><br>
+install using<br>
+Install_NewSymlink.cmd <br>
+<br><br>
 usage:<br>
 1 select a folder<br>
 2 right click<br>
